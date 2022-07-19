@@ -1,0 +1,3 @@
+The objective of this project is to scrape the data from the table 'By market capitalization' and store it in a JSON file.
+
+The wikipedia webpage [https://en.wikipedia.org/wiki/List_of_largest_banks](https://en.wikipedia.org/wiki/List_of_largest_banks?utm_medium=Exinfluencer&utm_source=Exinfluencer&utm_content=000026UJ&utm_term=10006555&utm_id=NA-SkillsNetwork-Channel-SkillsNetworkCoursesIBMDeveloperSkillsNetworkPY0221ENSkillsNetwork23455645-2022-01-01) provides information about largest banks in the world by various parameters. 
